@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<!-- Run tests in parallel instead of class for cross browser testing -->
+<suite name="Cross browser" parallel="tests" thread-count="2" verbose="3">
+    <listeners>
+        <listener class-name="com.nopCommerce.factory.Reports"/>
+        <listener class-name="com.nopCommerce.factory.AnnotationTransformer"/>
+    </listeners>
+
+    <parameter name="Region" value="QA"/>
+    
+    <test name="Chrome tests" parallel="classes" thread-count="2">
+        <parameter name="Browser" value="Chrome"/>
+        <packages>
+            <package name="com.nopCommerce.testCases"/>
+        </packages>
+    </test>
+
+    <test name="Edge tests" parallel="classes" thread-count="2">
+          <parameter name="Browser" value="Edge"/>
+           <packages>
+               <package name="com.nopCommerce.testCases"/>
+           </packages>
+       </test>
+</suite>

@@ -1,0 +1,221 @@
+13:33:07.042 [main] INFO  BaseClass.class - 
+    _     __  __  _______   ___   ____   ____     _   _______  _   ___   ____    _                 
+   / \   | |  | ||__   __| / _ \ | |\ \ / /| |   / \ |__   __|| | / - \ | |\ \  | |    
+  / _ \  | |  | |   | |   | / \ || |  \_/  | |  / _ \   | |   | || / \ || | \ \ | |     
+ / ___ \ | \__/ |   | |   | \_/ || |       | | / --- \  | |   | || \_/ || |  \ \| |     
+/_/   \_\ \____/    |_|    \___/ |_|       |_|/_/   \_\ |_|   |_| \___/ |_|   \__/     
+--------------------------------------------------------------------------------------------
+13:33:07.052 [main] INFO  BaseClass.class - Automation suite is started on QA environment!!
+13:33:07.052 [main] INFO  BaseClass.class - **** Entered before suite ****
+13:33:07.108 [main] INFO  ReadFiles.class - No of excel files loaded: 1
+13:33:07.108 [main] INFO  BaseClass.class - All config files are loaded successfully
+13:33:07.109 [main] INFO  BaseClass.class - All QA region details are set!!
+13:33:07.661 [main] INFO  BaseClass.class - *** Entered before tests ***
+13:33:07.661 [main] INFO  BaseClass.class - All Chrome browser config's are set!!
+13:33:07.696 [main] INFO  BaseClass.class - ** Entered before class **
+13:33:11.112 [main] INFO  BaseClass.class - Chrome browser was loaded successfully..
+13:33:22.151 [main] INFO  RegistrationTest.class - Url is opened
+13:33:22.180 [main] INFO  Reports.class - 
+ _____ _____ ____ _____   ____ _____  _    ____ _____ _____ ____  
+|_   _| ____/ ___|_   _| / ___|_   _|/ \  |  _ \_   _| ____|  _ \ 
+  | | |  _| \___ \ | |   \___ \ | | / _ \ | |_) || | |  _| | | | |
+  | | | |___ ___) || |    ___) || |/ ___ \|  _ < | | | |___| |_| |
+  |_| |_____|____/ |_|   |____/ |_/_/   \_\_| \_\|_| |_____|____/ 
+TEST STARTED: Register a new user 
+----------------------------------------------------------------------(com.nopCommerce.testCases.RegistrationTest/registerAUser)
+13:33:35.841 [main] INFO  RegistrationTest.class - A new user is created successfully
+13:33:35.841 [main] INFO  RegistrationTest.class - | User Name       | Password            |
+13:33:35.841 [main] INFO  RegistrationTest.class - +-----------------+---------------------+
+13:33:35.841 [main] INFO  RegistrationTest.class - | Tester@005      | GiFCKA@462          |
+13:33:35.858 [main] INFO  Reports.class - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+TEST PASSED: Register a new user 
+----------------------------------------------------------------------
+13:33:35.858 [main] INFO  Reports.class - Test finished outcome :: Test case:com.nopCommerce.testCases.RegistrationTest/registerAUser, Status:Passed, Duration:13, Failure cause:null
+13:33:39.204 [main] INFO  RegistrationTest.class - Url is opened
+13:33:39.209 [main] INFO  Reports.class - 
+ _____ _____ ____ _____   ____ _____  _    ____ _____ _____ ____  
+|_   _| ____/ ___|_   _| / ___|_   _|/ \  |  _ \_   _| ____|  _ \ 
+  | | |  _| \___ \ | |   \___ \ | | / _ \ | |_) || | |  _| | | | |
+  | | | |___ ___) || |    ___) || |/ ___ \|  _ < | | | |___| |_| |
+  |_| |_____|____/ |_|   |____/ |_/_/   \_\_| \_\|_| |_____|____/ 
+TEST STARTED: Register a new user 
+----------------------------------------------------------------------(com.nopCommerce.testCases.RegistrationTest/registerAUser)
+13:33:50.102 [main] INFO  Reports.class - Test finished outcome :: Test case:com.nopCommerce.testCases.RegistrationTest/registerAUser, Status:skipped, Duration:13, Failure cause:[]
+13:33:51.849 [main] INFO  RegistrationTest.class - Url is opened
+13:33:51.850 [main] INFO  Reports.class - 
+ _____ _____ ____ _____   ____ _____  _    ____ _____ _____ ____  
+|_   _| ____/ ___|_   _| / ___|_   _|/ \  |  _ \_   _| ____|  _ \ 
+  | | |  _| \___ \ | |   \___ \ | | / _ \ | |_) || | |  _| | | | |
+  | | | |___ ___) || |    ___) || |/ ___ \|  _ < | | | |___| |_| |
+  |_| |_____|____/ |_|   |____/ |_/_/   \_\_| \_\|_| |_____|____/ 
+TEST STARTED: Register a new user 
+----------------------------------------------------------------------(com.nopCommerce.testCases.RegistrationTest/registerAUser)
+13:33:54.045 [main] INFO  RegistrationTest.class - A new user onboarding by error
+13:33:54.045 [main] INFO  RegistrationTest.class - | User Name       | Password            |
+13:33:54.045 [main] INFO  RegistrationTest.class - +-----------------+---------------------+
+13:33:54.045 [main] INFO  RegistrationTest.class - | Tester@006      | yTqttcB@88          |
+13:33:54.045 [main] INFO  Reports.class - Test finished outcome :: Test case:com.nopCommerce.testCases.RegistrationTest/registerAUser, Status:skipped, Duration:13, Failure cause:[]
+13:33:54.785 [main] INFO  RegistrationTest.class - Url is opened
+13:33:54.787 [main] INFO  Reports.class - 
+ _____ _____ ____ _____   ____ _____  _    ____ _____ _____ ____  
+|_   _| ____/ ___|_   _| / ___|_   _|/ \  |  _ \_   _| ____|  _ \ 
+  | | |  _| \___ \ | |   \___ \ | | / _ \ | |_) || | |  _| | | | |
+  | | | |___ ___) || |    ___) || |/ ___ \|  _ < | | | |___| |_| |
+  |_| |_____|____/ |_|   |____/ |_/_/   \_\_| \_\|_| |_____|____/ 
+TEST STARTED: Register a new user 
+----------------------------------------------------------------------(com.nopCommerce.testCases.RegistrationTest/registerAUser)
+13:34:04.796 [main] INFO  Reports.class - Test finished outcome :: Test case:com.nopCommerce.testCases.RegistrationTest/registerAUser, Status:skipped, Duration:13, Failure cause:[]
+13:34:05.959 [main] INFO  RegistrationTest.class - Url is opened
+13:34:05.964 [main] INFO  Reports.class - 
+ _____ _____ ____ _____   ____ _____  _    ____ _____ _____ ____  
+|_   _| ____/ ___|_   _| / ___|_   _|/ \  |  _ \_   _| ____|  _ \ 
+  | | |  _| \___ \ | |   \___ \ | | / _ \ | |_) || | |  _| | | | |
+  | | | |___ ___) || |    ___) || |/ ___ \|  _ < | | | |___| |_| |
+  |_| |_____|____/ |_|   |____/ |_/_/   \_\_| \_\|_| |_____|____/ 
+TEST STARTED: Register a new user 
+----------------------------------------------------------------------(com.nopCommerce.testCases.RegistrationTest/registerAUser)
+13:34:16.267 [main] INFO  RegistrationTest.class - A new user onboarding by error
+13:34:16.268 [main] INFO  RegistrationTest.class - | User Name       | Password            |
+13:34:16.269 [main] INFO  RegistrationTest.class - +-----------------+---------------------+
+13:34:16.269 [main] INFO  RegistrationTest.class - | Tester@006      | yTqttcB@88          |
+13:34:16.273 [main] INFO  Reports.class - Test finished outcome :: Test case:com.nopCommerce.testCases.RegistrationTest/registerAUser, Status:skipped, Duration:13, Failure cause:[]
+13:34:17.492 [main] INFO  RegistrationTest.class - Url is opened
+13:34:17.497 [main] INFO  Reports.class - 
+ _____ _____ ____ _____   ____ _____  _    ____ _____ _____ ____  
+|_   _| ____/ ___|_   _| / ___|_   _|/ \  |  _ \_   _| ____|  _ \ 
+  | | |  _| \___ \ | |   \___ \ | | / _ \ | |_) || | |  _| | | | |
+  | | | |___ ___) || |    ___) || |/ ___ \|  _ < | | | |___| |_| |
+  |_| |_____|____/ |_|   |____/ |_/_/   \_\_| \_\|_| |_____|____/ 
+TEST STARTED: Register a new user 
+----------------------------------------------------------------------(com.nopCommerce.testCases.RegistrationTest/registerAUser)
+13:34:27.550 [main] INFO  RetryMethod.class - Max re-try limit reached for test
+13:34:27.557 [main] INFO  Reports.class - 
+         __  _____ _____ ____ _____   _____ ____  ____   ___  ____  
+ _      / / |_   _| ____/ ___|_   _| | ____|  _ \|  _ \ / _ \|  _ \ 
+(_)____| |    | | |  _| \___ \ | |   |  _| | |_) | |_) | | | | |_) |
+ |_____| |    | | | |___ ___) || |   | |___|  _ <|  _ <| |_| |  _ < 
+(_)    | |    |_| |_____|____/ |_|   |_____|_| \_\_| \_\\___/|_| \_\
+        \_\                                                         
+
+TEST ERROR: Register a new user 
+----------------------------------------------------------------------
+13:34:27.895 [main] INFO  Reports.class - registerAUser test screenshot is attached to the report.
+13:34:27.899 [main] INFO  Reports.class - Test finished outcome :: Test case:com.nopCommerce.testCases.RegistrationTest/registerAUser, Status:Error, Duration:10, Failure cause:element click intercepted: Element <button id="register" type="button" class="btn btn-primary">...</button> is not clickable at point (796, 451). Other element would receive the click: <div>...</div>
+  (Session info: chrome=132.0.6834.160)
+Build info: version: '4.26.0', revision: '8ccf0219d7'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [27bbb04e05c6f2556b79ed9b6532c9d8, clickElement {id=f.29CDFF1EA44FCDEA8C366ECFC8DEA3A4.d.D2593ED7F56C9124FA88EBCC14A881CE.e.496}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\vamsi\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55200}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55200/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (27bbb04e05c6f2556b79ed9b6532c9d8)] -> id: register]
+Session ID: 27bbb04e05c6f2556b79ed9b6532c9d8
+13:34:29.352 [main] INFO  RegistrationTest.class - Url is opened
+13:34:29.353 [main] INFO  Reports.class - 
+ _____ _____ ____ _____   ____ _____  _    ____ _____ _____ ____  
+|_   _| ____/ ___|_   _| / ___|_   _|/ \  |  _ \_   _| ____|  _ \ 
+  | | |  _| \___ \ | |   \___ \ | | / _ \ | |_) || | |  _| | | | |
+  | | | |___ ___) || |    ___) || |/ ___ \|  _ < | | | |___| |_| |
+  |_| |_____|____/ |_|   |____/ |_/_/   \_\_| \_\|_| |_____|____/ 
+TEST STARTED: Newly registered users validation by login into store 
+----------------------------------------------------------------------(com.nopCommerce.testCases.RegistrationTest/validateLoginFunctionWithNewUsers)
+13:34:36.706 [main] INFO  RegistrationTest.class - A new user failed to login by error
+13:34:36.706 [main] INFO  RegistrationTest.class - | User Name       | Password            |
+13:34:36.706 [main] INFO  RegistrationTest.class - +-----------------+---------------------+
+13:34:36.706 [main] INFO  RegistrationTest.class - | Tester@005      | GiFCKA@462          |
+13:34:36.719 [main] INFO  Reports.class - Test finished outcome :: Test case:com.nopCommerce.testCases.RegistrationTest/validateLoginFunctionWithNewUsers, Status:skipped, Duration:10, Failure cause:[]
+13:34:38.807 [main] INFO  RegistrationTest.class - Url is opened
+13:34:38.814 [main] INFO  Reports.class - 
+ _____ _____ ____ _____   ____ _____  _    ____ _____ _____ ____  
+|_   _| ____/ ___|_   _| / ___|_   _|/ \  |  _ \_   _| ____|  _ \ 
+  | | |  _| \___ \ | |   \___ \ | | / _ \ | |_) || | |  _| | | | |
+  | | | |___ ___) || |    ___) || |/ ___ \|  _ < | | | |___| |_| |
+  |_| |_____|____/ |_|   |____/ |_/_/   \_\_| \_\|_| |_____|____/ 
+TEST STARTED: Newly registered users validation by login into store 
+----------------------------------------------------------------------(com.nopCommerce.testCases.RegistrationTest/validateLoginFunctionWithNewUsers)
+13:34:59.868 [main] INFO  Reports.class - Test finished outcome :: Test case:com.nopCommerce.testCases.RegistrationTest/validateLoginFunctionWithNewUsers, Status:skipped, Duration:10, Failure cause:[]
+13:35:01.115 [main] INFO  RegistrationTest.class - Url is opened
+13:35:01.115 [main] INFO  Reports.class - 
+ _____ _____ ____ _____   ____ _____  _    ____ _____ _____ ____  
+|_   _| ____/ ___|_   _| / ___|_   _|/ \  |  _ \_   _| ____|  _ \ 
+  | | |  _| \___ \ | |   \___ \ | | / _ \ | |_) || | |  _| | | | |
+  | | | |___ ___) || |    ___) || |/ ___ \|  _ < | | | |___| |_| |
+  |_| |_____|____/ |_|   |____/ |_/_/   \_\_| \_\|_| |_____|____/ 
+TEST STARTED: Newly registered users validation by login into store 
+----------------------------------------------------------------------(com.nopCommerce.testCases.RegistrationTest/validateLoginFunctionWithNewUsers)
+13:35:23.429 [main] INFO  RegistrationTest.class - A new user failed to login by error
+13:35:23.430 [main] INFO  RegistrationTest.class - | User Name       | Password            |
+13:35:23.430 [main] INFO  RegistrationTest.class - +-----------------+---------------------+
+13:35:23.430 [main] INFO  RegistrationTest.class - | Tester@005      | GiFCKA@462          |
+13:35:23.431 [main] INFO  Reports.class - Test finished outcome :: Test case:com.nopCommerce.testCases.RegistrationTest/validateLoginFunctionWithNewUsers, Status:skipped, Duration:10, Failure cause:[]
+13:35:24.309 [main] INFO  RegistrationTest.class - Url is opened
+13:35:24.311 [main] INFO  Reports.class - 
+ _____ _____ ____ _____   ____ _____  _    ____ _____ _____ ____  
+|_   _| ____/ ___|_   _| / ___|_   _|/ \  |  _ \_   _| ____|  _ \ 
+  | | |  _| \___ \ | |   \___ \ | | / _ \ | |_) || | |  _| | | | |
+  | | | |___ ___) || |    ___) || |/ ___ \|  _ < | | | |___| |_| |
+  |_| |_____|____/ |_|   |____/ |_/_/   \_\_| \_\|_| |_____|____/ 
+TEST STARTED: Newly registered users validation by login into store 
+----------------------------------------------------------------------(com.nopCommerce.testCases.RegistrationTest/validateLoginFunctionWithNewUsers)
+13:35:46.198 [main] INFO  RetryMethod.class - Max re-try limit reached for test
+13:35:46.198 [main] INFO  Reports.class - 
+         __  _____ _____ ____ _____   _____ ____  ____   ___  ____  
+ _      / / |_   _| ____/ ___|_   _| | ____|  _ \|  _ \ / _ \|  _ \ 
+(_)____| |    | | |  _| \___ \ | |   |  _| | |_) | |_) | | | | |_) |
+ |_____| |    | | | |___ ___) || |   | |___|  _ <|  _ <| |_| |  _ < 
+(_)    | |    |_| |_____|____/ |_|   |_____|_| \_\_| \_\\___/|_| \_\
+        \_\                                                         
+
+TEST ERROR: Newly registered users validation by login into store 
+----------------------------------------------------------------------
+13:35:46.513 [main] INFO  Reports.class - validateLoginFunctionWithNewUsers test screenshot is attached to the report.
+13:35:46.513 [main] INFO  Reports.class - Test finished outcome :: Test case:com.nopCommerce.testCases.RegistrationTest/validateLoginFunctionWithNewUsers, Status:Error, Duration:21, Failure cause:Expected condition failed: waiting for visibility of element located by By.id: userName (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.26.0', revision: '8ccf0219d7'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\vamsi\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55200}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55200/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 27bbb04e05c6f2556b79ed9b6532c9d8
+13:35:46.517 [main] INFO  BaseClass.class - ** Entered after class **
+13:35:47.110 [main] INFO  BaseClass.class - Chrome browser was closed..
+13:35:47.112 [main] INFO  BaseClass.class - ** Entered before class **
+13:35:50.116 [main] INFO  BaseClass.class - Chrome browser was loaded successfully..
+13:35:50.945 [main] INFO  UserValidation.class - Url is opened
+13:35:50.950 [main] INFO  Reports.class - 
+ _____ _____ ____ _____   ____ _____  _    ____ _____ _____ ____  
+|_   _| ____/ ___|_   _| / ___|_   _|/ \  |  _ \_   _| ____|  _ \ 
+  | | |  _| \___ \ | |   \___ \ | | / _ \ | |_) || | |  _| | | | |
+  | | | |___ ___) || |    ___) || |/ ___ \|  _ < | | | |___| |_| |
+  |_| |_____|____/ |_|   |____/ |_/_/   \_\_| \_\|_| |_____|____/ 
+TEST STARTED: Book store login functionality validation 
+----------------------------------------------------------------------(com.nopCommerce.testCases.UserValidation/validateLoginFunction)
+13:36:06.895 [main] INFO  UserValidation.class - Login function is validated successfully
+13:36:06.896 [main] INFO  Reports.class - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+TEST PASSED: Book store login functionality validation 
+----------------------------------------------------------------------
+13:36:06.896 [main] INFO  Reports.class - Test finished outcome :: Test case:com.nopCommerce.testCases.UserValidation/validateLoginFunction, Status:Passed, Duration:15, Failure cause:null
+13:36:06.900 [main] INFO  BaseClass.class - ** Entered after class **
+13:36:07.466 [main] INFO  BaseClass.class - Chrome browser was closed..
+13:36:07.470 [main] INFO  BaseClass.class - *** Entered after tests ***
+13:36:07.475 [main] INFO  Reports.class - +-----------------+---------------------+
+13:36:07.475 [main] INFO  Reports.class - | Execution Summary | Master Suite        |
+13:36:07.475 [main] INFO  Reports.class - +-----------------+---------------------+
+13:36:07.476 [main] INFO  Reports.class - | Total Tests     | 3                   |
+13:36:07.476 [main] INFO  Reports.class - | Passed Tests    | 2                   |
+13:36:07.476 [main] INFO  Reports.class - | Failed Tests    | 2                   |
+13:36:07.476 [main] INFO  Reports.class - | Skipped Tests   | 7                   |
+13:36:07.476 [main] INFO  Reports.class - | Start Time      | Sun Feb 02 13:33:07 IST 2025 |
+13:36:07.477 [main] INFO  Reports.class - | End Time        | Sun Feb 02 13:36:07 IST 2025 |
+13:36:07.477 [main] INFO  Reports.class - | Host            | Local               |
+13:36:07.477 [main] INFO  Reports.class - +-----------------+---------------------+
+13:36:08.210 [main] INFO  BaseClass.class - +---- Automation run got completed -----+

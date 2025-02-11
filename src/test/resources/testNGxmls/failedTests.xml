@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed Suite" verbose="3">
+
+    <listeners>
+        <!-- Note: Re-run logic is not applied to tests that have already failed. -->
+        <listener class-name="com.nopCommerce.factory.Reports"/>
+    </listeners>
+
+    <parameter name="Region" value="QA"/>
+
+    <test name="Failed tests">
+        <parameter name="Browser" value="Chrome"/>
+        <classes>
+            <class name="com.nopCommerce.testCases.RegistrationTest">
+                <methods>
+                    <include name=""/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+</suite>
